@@ -32,6 +32,12 @@ across demographic groups like gender, race, and education level.
 - Monthly decision trends
 - High bias group detection using HAVING clause
 
+- ## Dashboard Screenshots
+[Approval by Gender]
+[Approval by Race]
+[Decision Trend Over Time]
+[Algorithm Accuracy]
+
 ## Key Findings
 - Approval rates varied by up to 9% across gender groups
 - Hispanic group had highest approval rate (50.95%)
