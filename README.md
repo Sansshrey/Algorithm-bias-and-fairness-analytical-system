@@ -49,3 +49,7 @@ across demographic groups like gender, race, and education level.
 2. Run generate_data.py to insert 1000 records
 3. Run queries.sql to see analysis results
 4. Open Power BI and connect to bias_fairness_db
+## Live Dashboard
+
+Power BI Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMGE5Njg4ODEtMjMxOS00N2ViLTg2YzUtMDRiNmJkYTNmYzk3IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
